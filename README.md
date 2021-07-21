@@ -5,9 +5,7 @@
 
 Join My Discord to see all my projects :
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
+[<img align="left" alt="My discord" width="22px" src="https://clipartcraft.com/images/discord-logo-transparent-overlay-1.png" />][discord] <-- click here
 
 ### My Stats !
 
@@ -15,7 +13,7 @@ Join My Discord to see all my projects :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jardi-land&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardi-land)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardi-land&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
