@@ -1,5 +1,7 @@
 ### Hi there, I'm Jardi-land 👋
 
+---
+
 - 🔭 I’m currently working on some FiveM/RedM projects!
 - 🌱 I’m currently learning JAVA / JS / LUA
 
