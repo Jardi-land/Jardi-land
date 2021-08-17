@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **JD_resale_prime** and **JD_auction**
 
-- 🌱 I’m currently learning **JAVA / PYTHON / LUA**
+- 🌱 I’m currently learning **NODE.JS / PYTHON / LUA / MYSQL**
 
 - 👨‍💻 All of my projects are available on [my discord](https://discord.gg/yRuxFXwrBk)
 
