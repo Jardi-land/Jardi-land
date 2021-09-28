@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on **JD_resale_prime** and **JD_auction**
+- 🔭 I’m currently working on **JD_resale_prime** and **Python games** 
 
 - 🌱 I’m currently learning **NODE.JS / PYTHON / LUA / MYSQL**
 
