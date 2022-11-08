@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Romantik Donjon** 
 
-- 👨‍💻 All of my projects are available on [my discord](https://discord.gg/yRuxFXwrBk)
-
 - 📫 How to reach me : **lorenzo.dzn@eduge.ch**
 
 ---
