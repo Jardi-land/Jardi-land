@@ -2,19 +2,13 @@
 
 ---
 
-- 🔭 I’m currently working on **JD_resale_prime** and **Python games** 
+- 🔭 I’m currently working on **Romantik Donjon** 
 
 - 🌱 I’m currently learning **NODE.JS / PYTHON / LUA / MYSQL**
 
 - 👨‍💻 All of my projects are available on [my discord](https://discord.gg/yRuxFXwrBk)
 
-- 📫 How to reach me **Jardiland#7666 (discord)**
-
----
-
-Join My Discord to see all my projects :
-
-[<img align="left" alt="My discord" width="22px" src="https://clipartcraft.com/images/discord-logo-transparent-overlay-1.png" />][discord] **<-- click here**
+- 📫 How to reach me : **lorenzo.dzn@eduge.ch**
 
 ---
 
@@ -31,7 +25,3 @@ Join My Discord to see all my projects :
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jardi-land&title=Commit&title=Repositories" alt="jardi-land" /></a> </p>
-
----
-
-[discord]: https://discord.gg/yRuxFXwrBk
