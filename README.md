@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Romantik Donjon** 
+- 🔭 I’m currently working on **Pygame** 
 
 - 📫 How to reach me : **lorenzo.dzn@eduge.ch**
 
