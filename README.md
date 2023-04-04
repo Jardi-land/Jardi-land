@@ -16,7 +16,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jardi-land&layout=compact&count_private=true&locale=fr" alt="jardi-land" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jardi-land&layout=compact&count_private=true&locale=en" alt="jardi-land" /></p>
 
 ---
 
