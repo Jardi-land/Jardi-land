@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lorenzo</h1>
+<h1 align="center">Hi 👋, I'm HumanWif</h1>
 
 ---
 
-- 🔭 I’m currently working on **Pygame** 
-
-- 📫 How to reach me : **lorenzo.dzn@eduge.ch**
+- 📫 How to reach me : **Don't try to reach me**
 
 ---
 
