@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HumanWif</h1>
+<h1 align="left">Hi 👋, I'm HumanWif</h1>
 
 ---
 
@@ -7,10 +7,6 @@
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jardi-land&count_private=true&show_icons=true?theme=buefy&locale=en" alt="jardi-land" /></p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jardi-land&theme=default&locale=en" alt="jardi-land" /></p>
 
 ---
 
