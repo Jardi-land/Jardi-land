@@ -6,10 +6,6 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jardi-land&count_private=true&show_icons=true?theme=buefy&locale=en" alt="jardi-land" /></p>
-
----
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jardi-land&layout=compact&count_private=true&locale=en" alt="jardi-land" /></p>
 
 ---
