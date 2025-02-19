@@ -2,7 +2,7 @@
 
 ---
 
-- 📫 How to reach me : **Don't try to reach me**
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jardi-land&theme=buefy" alt="jardi-land" /></p>
 
 ---
 
