@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardi-land&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jardi-land&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-lorenzos-projects-66aef5ef.vercel.app/?username=Jardi-land&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=A,AA,AAA,S,SS,SSS)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jardi-land&icon=5&color=0)](https://visitcount.itsvg.in)
