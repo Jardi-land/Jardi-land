@@ -29,12 +29,10 @@ jobs:
           # Options
           user: Jardi-land
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
+          base_indepth: yes
           config_display: columns
           config_timezone: Europe/Paris
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
