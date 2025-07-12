@@ -30,6 +30,7 @@ jobs:
           user: Jardi-land
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
           config_timezone: Europe/Paris
           plugin_followup: yes
           plugin_followup_archived: yes
